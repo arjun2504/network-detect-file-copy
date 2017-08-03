@@ -1,0 +1,6 @@
+c:\users\mslc\documents\visual studio 2013\Projects\pingcop2\pingcop2\bin\Debug\pingcop2.exe.config
+c:\Users\mslc\Documents\Visual Studio 2013\Projects\pingcop2\pingcop2\bin\Debug\pingcop2.exe
+c:\Users\mslc\Documents\Visual Studio 2013\Projects\pingcop2\pingcop2\bin\Debug\pingcop2.pdb
+c:\Users\mslc\Documents\Visual Studio 2013\Projects\pingcop2\pingcop2\obj\Debug\pingcop2.exe
+c:\Users\mslc\Documents\Visual Studio 2013\Projects\pingcop2\pingcop2\obj\Debug\pingcop2.pdb
+c:\Users\mslc\Documents\Visual Studio 2013\Projects\pingcop2\pingcop2\obj\Debug\pingcop2.csprojResolveAssemblyReference.cache
