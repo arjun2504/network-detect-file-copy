@@ -18,14 +18,14 @@ namespace pingercop
 
             //AppDomain.CurrentDomain.SetPrincipalPolicy(PrincipalPolicy.WindowsPrincipal); 
             //IntPtr token;
-            //LogonUser("mslc", "mslc", "m$lc123#", LogonType.LOGON32_LOGON_BATCH, LogonProvider.LOGON32_PROVIDER_DEFAULT);
+            //LogonUser("domain", "username", "password", LogonType.LOGON32_LOGON_BATCH, LogonProvider.LOGON32_PROVIDER_DEFAULT);
             //WindowsIdentity identity = new WindowsIdentity(token);
             //WindowsImpersonationContext context = identity.Impersonate();
             
             Console.WriteLine("Pinging...");
             bool loop = true;
 
-            var contents = File.ReadAllText(@"C:\Users\mslc\Desktop\ips.csv").Split('\n');
+            var contents = File.ReadAllText(@"C:\Users\user\Desktop\ips.csv").Split('\n');
             var csv = from line in contents select line.Split(',').ToArray();
             int notCompleted = 0;
 
